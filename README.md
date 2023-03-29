@@ -5,7 +5,7 @@ My current coursework is delving into embedded system design, functional program
 - I'm also tinkering with:
   -  Javascript, and plan to progress onto React and Node.js.
   -  MATLAB and some of the ML and CV toolboxes
-  -  
+ 
 - Also interested in embedded systems, robotics, cybersecurity and machine learning. To those ends, I'm involved in robotics projects and CTFs wherever possible.
 
 
