@@ -6,6 +6,6 @@ My current coursework is delving into embedded system design, Real-time operatin
   -  Maintaining and updating the website for UQ Mechatronics and Robotics Society
   -  Learning Javascript, and planning to progress onto React and Node.js. 
   -  MATLAB and some of the ML and CV toolboxes
-  -  ROS 1 (Humble) and CAN logging for UQ Racing
+  -  ROS 1 (Noetic) and CAN logging for UQ Racing
  
 - Interested in embedded systems, robotics, cybersecurity and machine learning. To those ends, I'm involved in robotics projects and CTFs wherever possible.
